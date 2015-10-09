@@ -1,11 +1,11 @@
-## Writing
+## [Writing](./writing/)
 
 ## Design
 
 ## Photography
 
-## Software
+## [Software](./software/)
 
-## Running
+## [Running](./running/)
 
 ## Art
