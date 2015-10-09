@@ -1,6 +1,8 @@
 ## Current Research Interests
 I am currently most interested in learning more about galactic centers, and in particular the environment and dynamical history of the Milky Way galactic center. I am also interested in studying stellar evolution and the environment around AGNs. My other research interests include neutron stars, pulsars, time-domain astronomy, and SETI.
 
+### [Curriculum Vitae](../cv/curriculumVitae.pdf)
+
 ---
 
 ## Galactic Center Binaries
