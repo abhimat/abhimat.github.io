@@ -171,6 +171,7 @@ figure.bleed {
 header {
 	width: 90%;
 	padding: 2em 5% 0;
+	padding-bottom: 20px;
 	max-width: 64em;
 	margin: 0 auto;
 	overflow: hidden;
