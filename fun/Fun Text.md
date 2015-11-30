@@ -1,6 +1,6 @@
 ## [Writing](./writing/)
 
-## Design
+## [Design](./design/)
 
 ## Photography
 
