@@ -1,18 +1,18 @@
-## [Writing](./writing/)
+## [Photography](./photography/)
 
 ## [Design](./design/)
 
-## Photography
+## [Running](./running/)
+
+## [Writing](./writing/)
 
 ## [Software](./software/)
-
-## [Running](./running/)
 
 ## Art
 
 ---
 
-And now, a laundry list of other places to find me on the web:<br>(Can you notice how much I like keeping track of *everything*?)
+And now, a lengthy list of other places to find me on the web:<br>(Can you notice how much I like keeping track of *everything*?)
 
 * Coding: [Github](https://github.com/abhimat)
 * Movies: [Letterboxd](http://letterboxd.com/abhimat/)
