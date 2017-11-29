@@ -3,7 +3,7 @@ I love graphic design and typography, and I love dabbling in it . Here are some 
 ## [Exploring Your Universe](https://www.exploringyouruniverse.org)
 ![Exploring Your Universe: Logo](./resources/EYU.png "Exploring Your Universe")
 
-Exploring Your Universe (EYU) is an annual science outreach day held on the UCLA campus. For the past few years, I've been leading the design for all aspects of EYU: including logo and print design It's the most extensive design project I've been involved in, and is one of my proudest works.
+Exploring Your Universe (EYU) is an annual science outreach day held on the UCLA campus. I've been leading the design for all aspects of EYU in the past few years, including logo and print design. It's the most extensive design project I've been involved in, and is one of my proudest works.
 
 ---
 
