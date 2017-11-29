@@ -97,6 +97,7 @@ p, ul, ol, table { margin-top: 1em; }
 hr {
 	width: 40%;
 	margin: 1em auto;
+    margin-top: 2.5em;
 	height: 2px;
 	border: 0 none;
 	background-color: #DDD;
@@ -289,7 +290,7 @@ header:after {
 }
 
 header h1, header h2, header h3 {
-	padding-bottom: 0.1em;
+	padding-bottom: 0.5em;
 }
 
 header h1, header p {
