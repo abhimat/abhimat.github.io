@@ -1,0 +1,15 @@
+- link: /
+  name: Front
+  nav_cat: front
+- link: /research/
+  name: Research
+  nav_cat: research
+- link: /outreach/
+  name: Outreach
+  nav_cat: outreach
+- link: /fun/
+  name: Fun
+  nav_cat: fun
+- link: /aboutme/
+  name: About Me
+  nav_cat: about_me
