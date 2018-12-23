@@ -292,7 +292,7 @@ header:after {
 }
 
 header h1, header h2, header h3 {
-	padding-bottom: 0.5em;
+/*  padding-bottom: 0.5em;*/
 }
 
 header h1, header p {
