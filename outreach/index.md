@@ -20,4 +20,4 @@ In the past, my science writing was contributed for my (now retired) blog [Astro
 
 I regularly volunteer for UCLA's Astronomy Live!, visiting local K--12 schools to perform various astronomy demonstrations.
 
-I've served on the organizing committee for 4 years on UCLA's annual science event, Exploring Your Universe. In addition to helping coordinate the general logistics of the event, I developed the overall design of the event (detailed in full, gory detail over [here](/art/design/EYU/)!).
+I've served on the organizing committee for 4 years on UCLA's annual science event, Exploring Your Universe. In addition to helping coordinate the general logistics of the event, I developed the overall design of the event (detailed in full, gory detail over [here](/art/graphic-design/EYU/)!).

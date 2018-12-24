@@ -21,11 +21,11 @@ title: Research
 
 ## Current Research
 
-### Stars and dynamical environment<br>of the Milky Way Galactic center
+### Stellar and dynamical environment<br>of the Milky Way Galactic center
 
-My graduate thesis research projects primarily study the stellar population and dynamical environment of the Milky Way Galactic center (GC). My projects primarily work with near-infrared adaptive optics imaging data from the Keck II telescope. Precise photometry of the GC stars presents a valuable way to understand the nature of the stars at the Galactic center and the environment they inhabit.
+My graduate thesis research projects primarily study the stellar population and dynamical environment of the Milky Way Galactic center (GC). My projects largely use near-infrared adaptive optics imaging data of the Galactic center taken using the Keck II telescope. Through my projects, I've developed a methodology to extract precise photometry from the UCLA Galactic Center Group's 12 year AO imaging dataset. Precise photometry of the GC stars presents a valuable way to understand the nature of the stars at the Galactic center and the environment they inhabit.
 
-One way I'm using photometry data is detecting binary star systems at the GC. The GC has a surprising collection of young stars in close proximity to the central black hole, and a distribution of old stars that don't quite match theoretical expectations. Binary star systems are valuable ways to help us better understand both open questions: the birth of binary star systems can tell us about star formation, and the survival of binary star systems tells us about what kinds of environments they have encountered over their lifetimes.
+One way I'm using photometry data is detecting binary star systems to help answer some open questions about the GC stars and dynamical history. The GC has a surprising collection of young stars in close proximity to the central black hole, and a distribution of old stars that don't quite match theoretical expectations. Binary star systems are valuable ways to help us better understand both open questions: the birth of binary star systems can tell us about star formation, and the survival of binary star systems tells us about what kinds of dynamical environments they have encountered over their lifetimes.
 
 <figure>
 	<img src="./Keck2_Me.jpg" alt="Keck II and me" title="Keck II and me" />
