@@ -10,7 +10,7 @@ title: About Me
 </figure>
 
 ## **Abhimat Krishna Gautam**
-<center><p><a href='/cv/cv_abhimat.pdf'>My CV</a></p></center>
+<center><p>Email: abhimat [at] astro.ucla.edu<br><a href='/cv/cv_abhimat.pdf'>My CV</a></p></center>
 
 I'm an astronomy graduate student at the University of California, Los Angeles. I love starry nights, learning about how stars and the universe works, and sharing my passion for science with absolutely everyone I can.
 
