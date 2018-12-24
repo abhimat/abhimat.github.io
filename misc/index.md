@@ -11,15 +11,11 @@ Radial Infall is my personal, rarely updated, weblog.
 
 
 ### [Astronyms](http://astronyms.net/)
-Astronomers often come up with some of the most clever (or convoluted, if you will) acronyms. Astronyms is a collection gathering my favorites all in one place. You can even [submit](http://astronyms.net/submit) your own!
-
-
-### [Astronomy and Space](http://astronomyandspace.net/)
-Astronomy and Space used to be a record of my adventures in learning more about the universe, and is now retired. A list of my favorite posts on the blog is [here](http://astronomyandspace.net/about).
+Astronomers often come up with some of the most clever (or convoluted, if you will) acronyms. Astronyms is an infrequently updated collection gathering my favorites all in one place. You can even [submit](http://astronyms.net/submit) your own!
 
 ---
 
-And now, a lengthy list of other places to find me on the web:<br>(Can you notice how much I like keeping track of *everything*?)
+And now, a lengthy list of other places to find me on the web:
 
 * Coding: [Github](https://github.com/abhimat)
 * Movies: [Letterboxd](http://letterboxd.com/abhimat/)
@@ -30,5 +26,5 @@ And now, a lengthy list of other places to find me on the web:<br>(Can you notic
 * Reading:
 	* Books: [Goodreads](https://www.goodreads.com/user/show/4882528-abhimat)
 	* Articles, etc.: [Instapaper](http://instapaper.com/p/abhimat)
-* Running/Cycling: [Strava](https://www.strava.com/athletes/2497917)
+* Running/Cycling/Swimming: [Strava](https://www.strava.com/athletes/2497917)
 * Social: [Twitter](http://twitter.com/abhimatgautam), [Instagram](https://www.instagram.com/abhimat)

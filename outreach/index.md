@@ -14,7 +14,7 @@ I'm also one of the graduate student coordinators helping run the [UCLA Planetar
 
 I like to share my enthusiasm for science and astronomy through writing. My current outlet for this is my personal blog [Radial Infall](http://radialinfall.com).
 
-In the past, my science writing was contributed for my (now retired) blog [Astronomy and Space](http://astronomyandspace.net). I have also regularly contributed to the Lunar and Planetary Institute's (now also retired) website [MyMoon](https://www.lpi.usra.edu/features/myMoon/index.shtml).
+In the past, my science writing mostly went on my (now retired) blog [Astronomy and Space](http://astronomyandspace.net). I have also regularly contributed to the Lunar and Planetary Institute's (now also retired) website [MyMoon](https://www.lpi.usra.edu/features/myMoon/index.shtml).
 
 ## UCLA Astronomy Live!<br>and Exploring Your Universe
 

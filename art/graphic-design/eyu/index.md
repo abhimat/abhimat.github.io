@@ -40,7 +40,7 @@ Exploring Your Universe (EYU) is an annual science outreach day held on the UCLA
 
 <figure>
 	<img src="FN_Prototype.png" alt="Field Notes" title="Field Notes" />
-    <figcaption>Custom [Field Notes](https://fieldnotesbrand.com) prototype for EYU 2018. These didn't pan out :(</figcaption>
+    <figcaption>Custom <a href="https://fieldnotesbrand.com">Field Notes</a> prototype for EYU 2018. These didn't pan out :(</figcaption>
 </figure>
 
 <figure>
