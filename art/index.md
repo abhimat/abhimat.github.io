@@ -8,13 +8,13 @@ title: Art
 
 ## [Inky Drawings](./inky-drawings/)
 
-## [Digital Portraits](./digital-portraits/)
+## [Digital Drawings](./digital-drawings/)
 
-<center><p>(I often put up my drawings on my Instagram page at <a href="https://www.instagram.com/explore/tags/abhimatdraws/">#AbhimatDraws</a>)</p></center>
+<center><p>(I often put up my latest drawings on my Instagram page at <a href="https://www.instagram.com/explore/tags/abhimatdraws/">#AbhimatDraws</a>)</p></center>
 
 ---
 
-## Photography
+## [Photography](./photography/)
 
 ---
 

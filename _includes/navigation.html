@@ -6,7 +6,7 @@
     {% if item.link == page.url and item.nav_cat == page.nav_cat %}
     <li><strong>{{ item.name }}</strong></li>
     {% elsif item.link != page.url and item.nav_cat == page.nav_cat %}
-    <li><a href="{{ item.link }}" class="current">{{ item.name }}</a></li>
+    <li><strong><a href="{{ item.link }}">{{ item.name }}</a></strong></li>
     {% else %}
     <li><a href="{{ item.link }}">{{ item.name }}</a></li>
     {% endif %}
