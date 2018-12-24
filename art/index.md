@@ -18,5 +18,5 @@ title: Art
 
 ---
 
-## Graphic Design
+## [Graphic Design](./graphic-design/)
 
