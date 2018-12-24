@@ -28,3 +28,9 @@ And now, a lengthy list of other places to find me on the web:
 	* Articles, etc.: [Instapaper](http://instapaper.com/p/abhimat)
 * Running/Cycling/Swimming: [Strava](https://www.strava.com/athletes/2497917)
 * Social: [Twitter](http://twitter.com/abhimatgautam), [Instagram](https://www.instagram.com/abhimat)
+
+---
+
+I lovingly handcrafted the frontend of this website myself (bugs and all 🐞❤️). The HTML and CSS I wrote to build this website is available at this [git repository](https://github.com/abhimat/abhimat.github.io). The backend I'm using for this website is [Jekyll](https://jekyllrb.com), and the website is hosted on [GitHub Pages](https://pages.github.com).
+
+This website is typeset in [Futura](https://en.wikipedia.org/wiki/Futura_(typeface)) and [Source Sans Pro](https://en.wikipedia.org/wiki/Source_Sans_Pro), and uses absolutely the best organic, free-range electrons available for delivery across the world wide web.
