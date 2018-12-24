@@ -10,9 +10,9 @@
 - link: /art/
   name: Art
   nav_cat: art
-- link: /fun/
-  name: Fun
-  nav_cat: fun
+- link: /misc/
+  name: Misc.
+  nav_cat: misc
 - link: /aboutme/
   name: About Me
   nav_cat: aboutme
