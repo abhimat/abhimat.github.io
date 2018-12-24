@@ -137,13 +137,18 @@ figure {
 }
 
 figure.bleed {
-	margin-right: -10%;
-	margin-left: -10%;
+  margin-right: -10%;
+  margin-left: -10%;
 }
 
 figure img {
 	max-width: 100%;
 	margin: 0;
+}
+
+figure.bleed img {
+	max-width: 100%;
+  border-radius
 }
 
 figcaption {
@@ -164,11 +169,6 @@ figcaption {
 
 figure.border {
 	border:1px solid #000;
-}
-
-figure.bleed {
-	margin-right: -25%;
-	margin-left: -25%;
 }
 
 /*Header Styles*/
@@ -201,6 +201,8 @@ header:after {
 		display: table;
 		height: 50px;
 		position: relative;
+    
+    padding-bottom: 1.5em;
 	}
 	
 	.logo-panel {
@@ -227,6 +229,7 @@ header:after {
 		float: left;
 		max-width: 50%;
 		margin: 0;
+    margin-bottom: 1em;
 		
 		position: absolute;
 		display: table;
@@ -278,9 +281,9 @@ header:after {
 		text-align: center;
 		
 		/*display: inline-block;
-		vertical-align: middle;
+    vertical-align: middle;*/
 
-		line-height: normal;*/
+		line-height: normal;
 	}
 
 	/*header figure.float {
@@ -291,8 +294,12 @@ header:after {
 	}*/
 }
 
-header h1, header h2, header h3 {
-/*  padding-bottom: 0.5em;*/
+header h1, header h2 {
+  padding-bottom: 0.25em;
+}
+
+header h3 {
+  padding-bottom: 0.6em;
 }
 
 header h1, header p {
@@ -334,6 +341,10 @@ ul.pages li a {
 	display: block;
 }
 
+ul.pages li a.current {
+  color: #444444;
+}
+
 
 /*Content Styles*/
 
@@ -368,6 +379,11 @@ article {
 	
 	/*Rounding the corners*/
 	border-radius: 10px;
+}
+
+.blocks .bleed img {
+	/*Rounding the corners*/
+	border-radius: 0px;
 }
 
 .blocks imagecaption {

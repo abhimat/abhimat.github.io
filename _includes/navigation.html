@@ -6,17 +6,15 @@
     {% if item.link == page.url and item.nav_cat == page.nav_cat %}
     <li><strong>{{ item.name }}</strong></li>
     {% elsif item.link != page.url and item.nav_cat == page.nav_cat %}
-    <li><a href="{{ item.link }}">{{ item.name }}</a></li>
+    <li><a href="{{ item.link }}" class="current">{{ item.name }}</a></li>
     {% else %}
     <li><a href="{{ item.link }}">{{ item.name }}</a></li>
     {% endif %}
     
-    <!-- <li><a href="../">Front</a></li>
-    <li><a href="../research/">Research</a></li>
-    <li><a href="../fun/">Fun</a></li>
-    <li><strong>About Me</strong></li> -->
-    
     {% endfor %}
-    
   </ul>
+  
+  {% if page.parent %}
+  <p><a href="../">← {{ page.parent }}</a></p>
+  {% endif %}
 </center>
