@@ -5,7 +5,7 @@ title: Pencil Drawings
 parent: Art
 ---
 
-<figure>
+<figure class="bleed">
 	<img src="./1.jpg" alt="" title="" />
     <!-- <figcaption>Caption</figcaption> -->
 </figure>
@@ -37,5 +37,15 @@ parent: Art
 
 <figure class="bleed">
 	<img src="./7.jpg" alt="" title="" />
+    <!-- <figcaption>Caption</figcaption> -->
+</figure>
+
+<figure>
+	<img src="./8.jpg" alt="" title="" />
+    <!-- <figcaption>Caption</figcaption> -->
+</figure>
+
+<figure>
+	<img src="./9.jpg" alt="" title="" />
     <!-- <figcaption>Caption</figcaption> -->
 </figure>
