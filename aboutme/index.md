@@ -10,9 +10,9 @@ title: About Me
 </figure>
 
 ## **Abhimat Krishna Gautam**
-<center><p>Email: abhimat [at] astro.ucla.edu<br><a href='/cv/cv_abhimat.pdf'>My CV</a></p></center>
+<center><p>Email: <a href="mailto:abhimat@astro.ucla.edu">abhimat [at] astro.ucla.edu</a><br><a href='/cv/cv_abhimat.pdf'>My CV</a></p></center>
 
-I'm an astronomy graduate student at the University of California, Los Angeles. I love starry nights, learning about how stars and the universe work, and sharing my passion for science with absolutely everyone I can.
+I'm an astronomy graduate student at UCLA. I love starry nights, learning about how stars and the universe work, and sharing my passion for science with absolutely everyone I can.
 
 I was born in India and spent a big part of my childhood there. I've also grown up in Pittsburgh, Rhode Island, and Boston. More recently, I've been living in California (Berkeley, and now LA). It turns out that California's *pretty amazing*.
 
