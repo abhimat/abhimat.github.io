@@ -7,15 +7,17 @@ title: Research
 ## Publications
 
 ### First-author
-* **A. K. Gautam**, T. Do, A. M. Ghez, et al. *An Adaptive Optics Survey of Stellar Variability at the Galactic Center* [arXiv:1811.04898 (ApJ, in press)](https://arxiv.org/abs/1811.04898)
+* **A. K. Gautam**, T. Do, A. M. Ghez, et al. *An Adaptive Optics Survey of Stellar Variability at the Galactic Center*<br>Journal Link: [ApJ, 871:103, 2019](https://doi.org/10.3847/1538-4357/aaf103) \| Open Access: [arXiv:1811.04898](https://arxiv.org/abs/1811.04898)
+
+
 
 ### Co-authored
-* D. S. Chu, et al. *Investigating the Binarity of S0-2* [ApJ, 854:12, 2018](https://arxiv.org/abs/1709.04890)
+* D. S. Chu, et al. *Investigating the Binarity of S0-2*<br>Journal Link: [ApJ, 854:12, 2018](https://doi.org/10.3847/1538-4357/aaa3eb) \| Open Access: [arXiv:1709.04890](https://arxiv.org/abs/1709.04890)
 
 ### Conference talks and proceedings
-* **A. K. Gautam**, T. Do, A. M. Ghez, et al. *Photometric detection of a candidate low-mass giant binary system at the Milky Way Galactic Center* [AAS 231, 2018 January](http://adsabs.harvard.edu/abs/2018AAS...23121201K)
-* **A. K. Gautam**, T. Do, A. M. Ghez, et al. *Constraining the Variability and Binary Fraction of Galactic Center Young Stars* [IAU Symposium 322, 2016 July](https://arxiv.org/abs/1610.02441)
-* **A. K. Gautam**, A. Siemion, E. J. Korpela, et al. *SETI Searches for Radio Transients from Kepler Field Planets and Astropulse Candidates* [AAS 224, 2014 June](http://adsabs.harvard.edu/abs/2018AAS...23121201K)
+* **A. K. Gautam**, T. Do, A. M. Ghez, et al. *Photometric detection of a candidate low-mass giant binary system at the Milky Way Galactic Center*<br>[AAS 231, 2018 January](http://adsabs.harvard.edu/abs/2018AAS...23121201K)
+* **A. K. Gautam**, T. Do, A. M. Ghez, et al. *Constraining the Variability and Binary Fraction of Galactic Center Young Stars*<br>[IAU Symposium 322, 2016 July](https://arxiv.org/abs/1610.02441)
+* **A. K. Gautam**, A. Siemion, E. J. Korpela, et al. *SETI Searches for Radio Transients from Kepler Field Planets and Astropulse Candidates*<br>[AAS 224, 2014 June](http://adsabs.harvard.edu/abs/2018AAS...23121201K)
 
 ---
 
