@@ -12,6 +12,7 @@ title: Research
 
 
 ### Co-authored
+* T. Do, et al. *Relativistic redshift of the star S0-2 orbiting the Galactic center supermassive black hole*<br>Journal Link: [Science, 16 Aug 2019](https://science.sciencemag.org/cgi/doi/10.1126/science.aav8137) \| Open Access: [arXiv:1907.10731](https://arxiv.org/abs/1907.10731)
 * S. Jia, et al. *The Galactic Center: Improved Relative Astrometry for Velocities, Accelerations, and Orbits near the Supermassive Black Hole*<br>Journal Link: [ApJ, 873:9, 2019](https://doi.org/10.3847/1538-4357/ab01de) \| Open Access: [arXiv:1902.02491](https://arxiv.org/abs/1902.02491)
 * S. Sakai, et al. *The Galactic Center: An Improved Astrometric Reference Frame for Stellar Orbits around the Supermassive Black Hole*<br>Journal Link: [ApJ, 873:65, 2019](https://doi.org/10.3847/1538-4357/ab0361) \| Open Access: [arXiv:1901.08685](https://arxiv.org/abs/1901.08685)
 * D. S. Chu, et al. *Investigating the Binarity of S0-2*<br>Journal Link: [ApJ, 854:12, 2018](https://doi.org/10.3847/1538-4357/aaa3eb) \| Open Access: [arXiv:1709.04890](https://arxiv.org/abs/1709.04890)
@@ -20,6 +21,13 @@ title: Research
 * **A. K. Gautam**, T. Do, A. M. Ghez, et al. *Photometric detection of a candidate low-mass giant binary system at the Milky Way Galactic Center*<br>[AAS 231, 2018 January](http://adsabs.harvard.edu/abs/2018AAS...23121201K)
 * **A. K. Gautam**, T. Do, A. M. Ghez, et al. *Constraining the Variability and Binary Fraction of Galactic Center Young Stars*<br>[IAU Symposium 322, 2016 July](https://arxiv.org/abs/1610.02441)
 * **A. K. Gautam**, A. Siemion, E. J. Korpela, et al. *SETI Searches for Radio Transients from Kepler Field Planets and Astropulse Candidates*<br>[AAS 224, 2014 June](http://adsabs.harvard.edu/abs/2018AAS...23121201K)
+
+### Software
+* PopStar
+* Phoebe_Phitter
+* 
+
+See also: Github profile
 
 ---
 
