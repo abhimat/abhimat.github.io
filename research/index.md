@@ -22,12 +22,14 @@ title: Research
 * **A. K. Gautam**, T. Do, A. M. Ghez, et al. *Constraining the Variability and Binary Fraction of Galactic Center Young Stars*<br>[IAU Symposium 322, 2016 July](https://arxiv.org/abs/1610.02441)
 * **A. K. Gautam**, A. Siemion, E. J. Korpela, et al. *SETI Searches for Radio Transients from Kepler Field Planets and Astropulse Candidates*<br>[AAS 224, 2014 June](http://adsabs.harvard.edu/abs/2018AAS...23121201K)
 
-### Software
+<!---
+### Public Astronomical Software
+* Phoebe_Phitter: 
 * PopStar
-* Phoebe_Phitter
 * 
 
 See also: Github profile
+-->
 
 ---
 
