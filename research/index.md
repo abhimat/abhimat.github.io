@@ -12,6 +12,7 @@ title: Research
 
 
 ### Co-authored
+* T. Do, G. Witzel, **A. K. Gautam**, et al. *Unprecedented variability of Sgr A* in NIR*<br>Journal Link: ApJ, (in press) \| Open Access: [arXiv:1908.01777](https://arxiv.org/abs/1908.01777)
 * T. Do, et al. *Relativistic redshift of the star S0-2 orbiting the Galactic center supermassive black hole*<br>Journal Link: [Science, 16 Aug 2019](https://science.sciencemag.org/cgi/doi/10.1126/science.aav8137) \| Open Access: [arXiv:1907.10731](https://arxiv.org/abs/1907.10731)
 * S. Jia, et al. *The Galactic Center: Improved Relative Astrometry for Velocities, Accelerations, and Orbits near the Supermassive Black Hole*<br>Journal Link: [ApJ, 873:9, 2019](https://doi.org/10.3847/1538-4357/ab01de) \| Open Access: [arXiv:1902.02491](https://arxiv.org/abs/1902.02491)
 * S. Sakai, et al. *The Galactic Center: An Improved Astrometric Reference Frame for Stellar Orbits around the Supermassive Black Hole*<br>Journal Link: [ApJ, 873:65, 2019](https://doi.org/10.3847/1538-4357/ab0361) \| Open Access: [arXiv:1901.08685](https://arxiv.org/abs/1901.08685)
