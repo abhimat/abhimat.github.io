@@ -1,6 +1,10 @@
 # OS Files
 *.DS_Store
 
+# Jekyll Files
 _site
 .sass-cache
 .jekyll-metadata
+
+# Previous versions of files
+*_prev*
