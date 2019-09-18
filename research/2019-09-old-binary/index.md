@@ -5,7 +5,7 @@ title: GC Old Binary
 parent: Research
 ---
 
-<center><p><a href="./Poster_Print.pdf">Download a copy of the poster</a></p></center>
+<center><p><a href="./Poster_Print.pdf"><b>Download a copy of the poster</b><br>(Keck Science Meeting, 2019)</a></p></center>
 
 ## Photometric observations and<br>discovery of periodic variability
 
@@ -38,8 +38,59 @@ Combining observations of the observed flux and color, we tested known sources o
     <figcaption>Distance and extinction estimates from the observed S2-36 color under the red giant ellipsoidal binary hypothesis (red) and the Type II cepheid hypothesis (blue). The star's observed colors are most consistent with the Galactic center under the ellipsoidal binary hypothesis. (Gautam+ in prep.)</figcaption>
 </figure>
 
-## Binary light curve modeling
+## Binary light curve modeling: two red giants, with one 
 
 We have built new software ([PHOEBE Phitter](https://github.com/abhimat/phoebe_phitter)) to model the observed light curve of S2-36 in *K\'*- and *H*-band to estimate physical parameters of the stars making up the binary system. We use [PHOEBE2](http://phoebe-project.org) to generate model binary systems and light curves. We derive stellar parameters of the binary components using [PopStar](https://github.com/astropy/PopStar). We draw stellar parameters and synthetic photometry from isochrones generated at stellar ages spanning 1 Gyr to 13.5 Gyr, and with metallicities between [Fe/H] = –1.5 and [Fe/H] = 0.5.
 
-Best-fit models 
+Best-fit binary models consist of an evolved red giant branch primary (radius approximately 34 solar radii, mass approximately 0.8 solar masses), a less-evolved secondary (radius approximately 13 solar radii, mass approximately 0.8 solar masses). The binary orbits have a semi-major axis of approximately 0.45 AU. To adequately fit the observed light curve, the binary light curves need a large tidally distorted primary (which gives the sinusoidal variations in light curve) and a smaller red giant (which gives the eclipses in the light curves). Notably, the sinusoidal variation in the more evolved giant are not enough to account for the total amplitude in the light curves.
+
+<figure>
+	<img src="./binary_lc_model.png" title="S2-36 light curve and binary model" />
+    <figcaption>S2-36 observations (shown in black) with a model binary light curve (shown in red). This model light curve is generated with stellar parameters drawn from a 12.8 Gyr, [Fe/H] = –1.0 isochrone. (Gautam+ in prep.)</figcaption>
+</figure>
+
+<figure>
+	<img src="./binary_mesh.png" title="Binary mesh model" />
+    <figcaption>Mesh model for the binary model used to generate the model light curve shown above. Both components have similar masses. The larger component is tidally distorted by the second, smaller component. (Gautam+ in prep.)</figcaption>
+</figure>
+
+## Constraints on a "dark cusp"
+
+### Dynamical relaxation and cusps
+Our galaxy has a supermassive black hole that is lower in mass when compared to the central black holes in many other galaxies. A consequence of the low mass of the black hole is that it lowers the *dynamical relaxation* time for a stellar cluster that lives around it.
+
+From dynamical models, we expect that such relaxed populations, if they exist around a central black hole that periodically eats stars, should exhibit a steep increase in stellar density towards the center. From Bahcall and Wolf dynamical models, if we model the density as a power law (density distribution: n^alpha), we expect an exponent somewhere between alpha = 7/4 to alpha = 3/2. This density profile is called a *cusp*.
+
+Observationally, there is not strong evidence for such a cusp with old, late-type stars at the Galactic center (see, e.g.: [Do+ 2013](https://ui.adsabs.harvard.edu/abs/2013ApJ...779L...6D/abstract), [Gallego-Cano+ 2018](https://ui.adsabs.harvard.edu/abs/2018A&A...609A..26G/abstract)).
+
+### Dark Cusp
+There has also been proposed a *dark cusp*, consisting of about 10,000 stellar mass black holes, each with individual masses on the order of 10 solar masses. These black holes would be remnants of recent episodes of star formation that took place less than a Gigayear ago. It’s expected that these black holes would have had sufficient time to reach relaxation around our black hole. Once this population has relaxed, we would also expect them to form a cusp, with density rising rapidly towards the center.
+
+The challenge for this type of cusp is that it is not luminous, and difficult to verify and constrain directly. Recent observations in X-ray of quiescent X-ray binaries at further distances are consistent with a cusp ([Hailey+ 2018](https://ui.adsabs.harvard.edu/abs/2018Natur.556...70H/abstract)), but this study did not look close to the central black hole, within the central 0.2 parsecs, so their constraints are limited at smaller distances to the black hole.
+
+### Testing a dark cusp with binary evaporation
+A dark cusp can also be probed *binary evaporation* (see e.g.: [Alexander+Pfuhl 2014](https://ui.adsabs.harvard.edu/abs/2014ApJ...780..148A/abstract)): If you have a younger binary system with more massive stars or tighter separation, you would expect that such a binary system would be less susceptible to evaporation from the high stellar densities that you get from a cusp. On the other hand, if you have an older binary system, with less massive or further separated components, the binary system becomes much more easily able to evaporate from the high densities from a cusp. Essentially an older binary system has had more chances to be susceptible to evaporation from the environment density over the course of its lifetime.
+
+This idea has been applied to the longest period binary that we know of in the galactic center so far: IRS 16NE (224 day binary period, approximately 6 Myr age). With the long period, it is much further separated, but they find that with this particular binary they were not able to place tight constraints on the cusp. This is a young, massive binary system, and therefore has had less opportunities for evaporation from the cusp.
+
+### An old binary system places tighter constraints<br>on the dark cusp
+With an old binary system, tighter constraints can be placed on the dark cusp. Specifically, we derived limits on the *minimum relaxation time* for the dark cusp population, and *maximum density* and *maximum number* (within S2-36's orbit around the central supermassive black hole) of dark cusp members. S2-36's survival as an old binary implies that the maximum number of 10 solar mass objects within 0.25 parsecs is on the order of 1000.
+
+<figure>
+	<img src="./t_rlx_constraint.png" title="S2-36 constraint on relaxation time" />
+    <figcaption>S2-36 constraints on minimum relaxation time (solid lines) and IRS 16NE constraints on minimum relaxation time (dashed lines). S2-36 gets constraints that are about 2 orders of magnitude larger on the relaxation time than those by IRS 16NE. (Gautam+ in prep.)</figcaption>
+</figure>
+
+<figure>
+	<img src="./density_constraint.png" title="S2-36 constraint on density of dark cusp members" />
+    <figcaption>S2-36 constraints on density of dark cusp members (solid lines) and IRS 16NE constraints on density of dark cusp members (dashed lines). S2-36 gets constraints that are about 3 orders of magnitude tighter than those by IRS 16NE. (Gautam+ in prep.)</figcaption>
+</figure>
+
+<figure>
+	<img src="./number_constraint.png" title="S2-36 constraint on number of dark cusp members" />
+    <figcaption>S2-36 constraints on number of dark cusp members (solid lines) and IRS 16NE constraints on number of dark cusp members (dashed lines), within these binaries respective orbits around the supermassive black hole. S2-36 gets constraints that are about 3–4 orders of magnitude tighter than those by IRS 16NE. (Gautam+ in prep.)</figcaption>
+</figure>
+
+These calculations were performed with assuming dark cusp members have masses of 10 solar masses. The possible distances (r) of the binaries S2-36 and IRS 16NE from the supermassive black hole are determined by astrometric measurements of each star. Minimum possible distance is determined by the projected distance to Sgr A*. The maximum possible distance is determined by where the projected velocity can still remain gravitationally bound to the central supermassive black hole.
+
+**Stay tuned for our final results in an upcoming paper: Gautam+ (in prep.)!**
