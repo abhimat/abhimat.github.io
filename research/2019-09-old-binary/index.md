@@ -104,6 +104,11 @@ With an old binary system, tighter constraints can be placed on the dark cusp. S
     <figcaption>S2-36 constraints on number of dark cusp members (solid lines) and IRS 16NE constraints on number of dark cusp members (dashed lines), within these binaries respective orbits around the supermassive black hole. S2-36 gets constraints that are about 3–4 orders of magnitude tighter than those by IRS 16NE. (Gautam+ in prep.)</figcaption>
 </figure>
 
+<figure class="text">
+	<img src="./softness_parameter.png" title="S2-36 softness parameter" />
+    <figcaption>S2-36 softness parameter (solid lines) and IRS 16NE softness parameter (dashed lines). S2-36 is a <em>soft</em> binary system, so it is very sensitive to evaporation from interactions with surrounding members in the nuclear star cluster. (Gautam+ in prep.)</figcaption>
+</figure>
+
 These calculations were performed with assuming dark cusp members have masses of 10 solar masses. The possible distances (r) of the binaries S2-36 and IRS 16NE from the supermassive black hole are determined by astrometric measurements of each star. Minimum possible distance is determined by the projected distance to Sgr A*. The maximum possible distance is determined by where the projected velocity can still remain gravitationally bound to the central supermassive black hole.
 
 **Stay tuned for our final results in an upcoming paper: Gautam+ (in prep.)!**
