@@ -154,12 +154,17 @@ figure.bleed img {
 figcaption {
 	padding-top: 0.5em;
 	margin-left: 1em;
-	font-style: italic;
+    font-style: italic;
     font-family: 'Source Sans Pro', Verdana, Sans-Serif;
 	font-weight: 300;
 	font-size: 14px;
     
     text-align: center;
+}
+
+.text figcaption {
+    font-style: normal;
+    text-align: left;
 }
 
 .bleed figcaption {
