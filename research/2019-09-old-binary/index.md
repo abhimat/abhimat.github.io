@@ -5,7 +5,15 @@ title: GC Old Binary
 parent: Research
 ---
 
-<center><p><a href="./Poster_Print.pdf"><b>Download a copy of the poster</b><br>(Keck Science Meeting, 2019)</a></p></center>
+**[Download a copy of the poster](./Poster_Print.pdf)**<br>(Keck Science Meeting, September 2019)
+
+Stay tuned for our final results in an upcoming paper: **Gautam+ (in prep.)**
+
+Initial discovery of old binary, and methodology for deriving precise photometry from Galactic center Keck AO imaging data: **[Gautam+ (2019)](https://ui.adsabs.harvard.edu/abs/2019ApJ...871..103G/abstract)**
+
+Contact for questions and comments: [abhimat [at] astro.ucla.edu](mailto:abhimat@astro.ucla.edu)
+
+---
 
 ## Photometric observations and<br>discovery of periodic variability
 
