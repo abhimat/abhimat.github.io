@@ -72,7 +72,7 @@ Best-fit binary models consist of an evolved red giant branch primary (radius ap
 ### Dynamical relaxation and cusps
 Our galaxy has a supermassive black hole that is lower in mass when compared to the central black holes in many other galaxies. A consequence of the low mass of the black hole is that it lowers the *dynamical relaxation* time for a stellar cluster that lives around it.
 
-From dynamical models, we expect that such relaxed populations, if they exist around a central black hole that periodically eats stars, should exhibit a steep increase in stellar density towards the center. From Bahcall and Wolf dynamical models, if we model the density as a power law (density distribution: n^alpha), we expect an exponent somewhere between alpha = 7/4 to alpha = 3/2. This density profile is called a *cusp*.
+From dynamical models, we expect that such relaxed populations, if they exist around a central black hole that periodically eats stars, should exhibit a steep increase in stellar density towards the center. From Bahcall and Wolf dynamical models, if we model the density as a power law (density distribution, n(r), goes as r^(-alpha)), we expect an exponent somewhere between alpha = 7/4 to alpha = 3/2. This density profile is called a *cusp*.
 
 Observationally, there is not strong evidence for such a cusp with old, late-type stars at the Galactic center (see, e.g.: [Do+ 2013](https://ui.adsabs.harvard.edu/abs/2013ApJ...779L...6D/abstract), [Gallego-Cano+ 2018](https://ui.adsabs.harvard.edu/abs/2018A&A...609A..26G/abstract)).
 
