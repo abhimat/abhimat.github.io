@@ -74,7 +74,7 @@ Our galaxy has a supermassive black hole that is lower in mass when compared to 
 
 From dynamical models, we expect that such relaxed populations, if they exist around a central black hole that periodically eats stars, should exhibit a steep increase in stellar density towards the center. From Bahcall and Wolf dynamical models, if we model the density as a power law (density distribution, n(r), goes as r^(-alpha)), we expect an exponent somewhere between alpha = 7/4 to alpha = 3/2. This density profile is called a *cusp*.
 
-Observationally, there is not strong evidence for such a cusp with old, late-type stars at the Galactic center (see, e.g.: [Do+ 2013](https://ui.adsabs.harvard.edu/abs/2013ApJ...779L...6D/abstract), [Gallego-Cano+ 2018](https://ui.adsabs.harvard.edu/abs/2018A&A...609A..26G/abstract)).
+Observationally, there is not strong evidence for such a cusp with old, late-type stars at the Galactic center, which should have had enough time to dynamically relax (see, e.g.: [Do+ 2013](https://ui.adsabs.harvard.edu/abs/2013ApJ...779L...6D/abstract), [Gallego-Cano+ 2018](https://ui.adsabs.harvard.edu/abs/2018A&A...609A..26G/abstract)).
 
 ### Dark Cusp
 There has also been proposed a *dark cusp*, consisting of about 10,000 stellar mass black holes, each with individual masses on the order of 10 solar masses. These black holes would be remnants of recent episodes of star formation that took place less than a Gigayear ago. It’s expected that these black holes would have had sufficient time to reach relaxation around our black hole. Once this population has relaxed, we would also expect them to form a cusp, with density rising rapidly towards the center.
