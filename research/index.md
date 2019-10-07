@@ -12,8 +12,8 @@ title: Research
 
 
 ### Co-authored
-* Z. Chen, et al. *Consistency of the Infrared Variability of Sgr A\* over 22 years*<br>Journal Link: ApJL, (in press) \| Open Access: [arXiv:1908.08066](https://arxiv.org/abs/1908.08066)
-* T. Do, G. Witzel, **A. K. Gautam**, et al. *Unprecedented variability of Sgr A\* in NIR*<br>Journal Link: ApJL, (in press) \| Open Access: [arXiv:1908.01777](https://arxiv.org/abs/1908.01777)
+* Z. Chen, et al. *Consistency of the Infrared Variability of Sgr A\* over 22 yr*<br>Journal Link: [ApJL, 882:L28, 2019](https://doi.org/10.3847/2041-8213/ab3c68) \| Open Access: [arXiv:1908.08066](https://arxiv.org/abs/1908.08066)
+* T. Do, G. Witzel, **A. K. Gautam**, et al. *Unprecedented Near-infrared Brightness and Variability of Sgr A\**<br>Journal Link: [ApJL, 882:L27, 2019](https://doi.org/10.3847/2041-8213/ab38c3) \| Open Access: [arXiv:1908.01777](https://arxiv.org/abs/1908.01777)
 * T. Do, et al. *Relativistic redshift of the star S0-2 orbiting the Galactic center supermassive black hole*<br>Journal Link: [Science, 16 Aug 2019](https://science.sciencemag.org/cgi/doi/10.1126/science.aav8137) \| Open Access: [arXiv:1907.10731](https://arxiv.org/abs/1907.10731)
 * S. Jia, et al. *The Galactic Center: Improved Relative Astrometry for Velocities, Accelerations, and Orbits near the Supermassive Black Hole*<br>Journal Link: [ApJ, 873:9, 2019](https://doi.org/10.3847/1538-4357/ab01de) \| Open Access: [arXiv:1902.02491](https://arxiv.org/abs/1902.02491)
 * S. Sakai, et al. *The Galactic Center: An Improved Astrometric Reference Frame for Stellar Orbits around the Supermassive Black Hole*<br>Journal Link: [ApJ, 873:65, 2019](https://doi.org/10.3847/1538-4357/ab0361) \| Open Access: [arXiv:1901.08685](https://arxiv.org/abs/1901.08685)
@@ -39,9 +39,11 @@ See also: Github profile
 
 ### Stellar and dynamical environment<br>of the Milky Way Galactic center
 
-My graduate thesis research projects primarily study the stellar population and dynamical environment of the Milky Way Galactic center (GC). My projects largely use near-infrared adaptive optics imaging data of the Galactic center taken using the Keck II telescope. Through my projects, I've developed a methodology to extract precise photometry from the UCLA Galactic Center Group's 12 year AO imaging dataset. Precise photometry of the GC stars presents a valuable way to understand the nature of the stars at the Galactic center and the environment they inhabit.
+My graduate thesis research projects primarily study the stellar population and dynamical environment of the Milky Way Galactic center (GC). The center of the galaxy is a unique laboratory that allows us to study how stars form in an extreme environment and how the presence of a supermassive black hole affects the dynamics in a star cluster.
 
-One way I'm using photometry data is detecting binary star systems to help answer some open questions about the GC stars and dynamical history. The GC has a surprising collection of young stars in close proximity to the central black hole, and a distribution of old stars that don't quite match theoretical expectations. Binary star systems are valuable ways to help us better understand both open questions: the birth of binary star systems can tell us about star formation, and the survival of binary star systems tells us about what kinds of dynamical environments they have encountered over their lifetimes.
+My graduate research projects largely use near-infrared adaptive optics imaging data of the Galactic center taken using the Keck II telescope. Through my projects, I've developed a methodology to extract precise photometry from the UCLA Galactic Center Group's AO imaging dataset spanning over 13 years. Precise photometry of the GC stars presents a valuable way to help answer the broad questions of my thesis, by understanding the nature of the stars at the Galactic center and the environment they inhabit.
+
+One way I'm using photometry data is by detecting binary star systems to help answer some open questions about the formation of GC stars and dynamical history of the GC. The GC has a surprising collection of young stars in close proximity to the central black hole, and a distribution of old stars that don't quite match theoretical expectations. Binary star systems are valuable ways to help us better understand both open questions. The number, distribution, and properties of binary star systems can tell us about the star formation of the environment. And the survival of a binary star system can tell us about what kinds of dynamical environments the system has encountered over its lifetime.
 
 <figure>
 	<img src="./Keck2_Me.jpg" alt="Keck II and me" title="Keck II and me" />
