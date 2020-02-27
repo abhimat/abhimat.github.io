@@ -12,12 +12,13 @@ title: Research
 
 
 ### Co-authored
-* Z. Chen, et al. *Consistency of the Infrared Variability of Sgr A\* over 22 yr*<br>Journal Link: [ApJL, 882:L28, 2019](https://doi.org/10.3847/2041-8213/ab3c68) \| Open Access: [arXiv:1908.08066](https://arxiv.org/abs/1908.08066)
+* A. Hees, et al, incl. **A. K. Gautam**. *Search for a Variation of the Fine Structure Constant around the Supermassive Black Hole in Our Galactic Center*<br>Journal Link: [PRL, 124, 081101, 2020](https://doi.org/10.1103/PhysRevLett.124.081101) \| Open Access: [arXiv:2002.11567](https://arxiv.org/abs/2002.11567)
+* Z. Chen, et al, incl. **A. K. Gautam**. *Consistency of the Infrared Variability of Sgr A\* over 22 yr*<br>Journal Link: [ApJL, 882:L28, 2019](https://doi.org/10.3847/2041-8213/ab3c68) \| Open Access: [arXiv:1908.08066](https://arxiv.org/abs/1908.08066)
 * T. Do, G. Witzel, **A. K. Gautam**, et al. *Unprecedented Near-infrared Brightness and Variability of Sgr A\**<br>Journal Link: [ApJL, 882:L27, 2019](https://doi.org/10.3847/2041-8213/ab38c3) \| Open Access: [arXiv:1908.01777](https://arxiv.org/abs/1908.01777)
-* T. Do, et al. *Relativistic redshift of the star S0-2 orbiting the Galactic center supermassive black hole*<br>Journal Link: [Science, 16 Aug 2019](https://science.sciencemag.org/cgi/doi/10.1126/science.aav8137) \| Open Access: [arXiv:1907.10731](https://arxiv.org/abs/1907.10731)
-* S. Jia, et al. *The Galactic Center: Improved Relative Astrometry for Velocities, Accelerations, and Orbits near the Supermassive Black Hole*<br>Journal Link: [ApJ, 873:9, 2019](https://doi.org/10.3847/1538-4357/ab01de) \| Open Access: [arXiv:1902.02491](https://arxiv.org/abs/1902.02491)
-* S. Sakai, et al. *The Galactic Center: An Improved Astrometric Reference Frame for Stellar Orbits around the Supermassive Black Hole*<br>Journal Link: [ApJ, 873:65, 2019](https://doi.org/10.3847/1538-4357/ab0361) \| Open Access: [arXiv:1901.08685](https://arxiv.org/abs/1901.08685)
-* D. S. Chu, et al. *Investigating the Binarity of S0-2*<br>Journal Link: [ApJ, 854:12, 2018](https://doi.org/10.3847/1538-4357/aaa3eb) \| Open Access: [arXiv:1709.04890](https://arxiv.org/abs/1709.04890)
+* T. Do, et al, incl. **A. K. Gautam**. *Relativistic redshift of the star S0-2 orbiting the Galactic center supermassive black hole*<br>Journal Link: [Science, 16 Aug 2019](https://science.sciencemag.org/cgi/doi/10.1126/science.aav8137) \| Open Access: [arXiv:1907.10731](https://arxiv.org/abs/1907.10731)
+* S. Jia, J. R. Lu, S. Sakai, **A. K. Gautam**, et al. *The Galactic Center: Improved Relative Astrometry for Velocities, Accelerations, and Orbits near the Supermassive Black Hole*<br>Journal Link: [ApJ, 873:9, 2019](https://doi.org/10.3847/1538-4357/ab01de) \| Open Access: [arXiv:1902.02491](https://arxiv.org/abs/1902.02491)
+* S. Sakai, et al, incl. **A. K. Gautam**. *The Galactic Center: An Improved Astrometric Reference Frame for Stellar Orbits around the Supermassive Black Hole*<br>Journal Link: [ApJ, 873:65, 2019](https://doi.org/10.3847/1538-4357/ab0361) \| Open Access: [arXiv:1901.08685](https://arxiv.org/abs/1901.08685)
+* D. S. Chu, et al, incl. **A. K. Gautam**. *Investigating the Binarity of S0-2*<br>Journal Link: [ApJ, 854:12, 2018](https://doi.org/10.3847/1538-4357/aaa3eb) \| Open Access: [arXiv:1709.04890](https://arxiv.org/abs/1709.04890)
 
 ### Conference talks and proceedings
 * **A. K. Gautam**, T. Do, A. M. Ghez, et al. *Photometric detection of a candidate low-mass giant binary system at the Milky Way Galactic Center*<br>[AAS 231, 2018 January](http://adsabs.harvard.edu/abs/2018AAS...23121201K)
