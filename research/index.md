@@ -54,6 +54,7 @@ One way I'm using photometry data is by detecting binary star systems to help an
 ---
 
 ## Conference Research Pages
+* 2019 October, Galactic Center Workshop 2019, Yokohama, Japan: [Constraints on Dark Cusp from an Old Binary System at Galactic Center](./2019-10-old-binary/)
 * 2019 September, Keck Science Meeting, UCLA: [Constraints on Dark Cusp from an Old Binary System at Galactic Center](./2019-09-old-binary/)
 
 
