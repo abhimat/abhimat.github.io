@@ -38,6 +38,9 @@ I lovingly handcrafted the frontend of this website myself (bugs and all 🐞❤
 This website is typeset in [Futura](https://en.wikipedia.org/wiki/Futura_(typeface)) and [Source Sans Pro](https://en.wikipedia.org/wiki/Source_Sans_Pro), and uses absolutely the best organic, free-range electrons available for delivery across the world wide web.
 
 <figure>
+	<picture>
+	<source srcset="../assets/icons/personal-mark-dark.svg" media="(prefers-color-scheme: dark)">
 	<img src="../assets/icons/personal-mark.svg" alt="Abhimat Icon" title="Abhimat Icon" width="64" />
+	</picture>
     <!-- <figcaption>Caption</figcaption> -->
 </figure>
