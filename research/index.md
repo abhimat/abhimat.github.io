@@ -11,6 +11,7 @@ title: Research
 
 
 ### Co-authored
+* S. C. Rose, S. Naoz, **A. K. Gautam**, et al. *On Socially Distant Neighbors: Using Binaries to Constrain the Density of Objects in the Galactic Center*<br>Journal Link: ApJ (submitted) \| Open Access: [arXiv: 2008.06512](https://arxiv.org/abs/2008.06512)
 * M. W. Hosek Jr., J. R. Lu, C. Y. Lam, **A. K. Gautam**, et al. *PyPopStar: A Python-Based Simple Stellar Population Synthesis Code for Star Clusters*<br>Journal Link: AJ (in press) \| Open Access: [arXiv:2006.06691](https://arxiv.org/abs/2006.06691)
 * A. Hees, et al, incl. **A. K. Gautam**. *Search for a Variation of the Fine Structure Constant around the Supermassive Black Hole in Our Galactic Center*<br>Journal Link: [PRL, 124, 081101, 2020](https://doi.org/10.1103/PhysRevLett.124.081101) \| Open Access: [arXiv:2002.11567](https://arxiv.org/abs/2002.11567)
 * Z. Chen, et al, incl. **A. K. Gautam**. *Consistency of the Infrared Variability of Sgr A\* over 22 yr*<br>Journal Link: [ApJL, 882:L28, 2019](https://doi.org/10.3847/2041-8213/ab3c68) \| Open Access: [arXiv:1908.08066](https://arxiv.org/abs/1908.08066)
