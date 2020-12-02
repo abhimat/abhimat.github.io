@@ -5,8 +5,8 @@ title: About Me
 ---
 
 <figure>
-	<img src="./Face.jpg" alt="My Face!" title="My Face!" />
-    <figcaption>My Face!</figcaption>
+	<img src="./Me.jpg" alt="it me!" title="it me!" />
+    <figcaption></figcaption>
 </figure>
 
 ## **Abhimat Krishna Gautam**
