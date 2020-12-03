@@ -11,7 +11,7 @@ title: Research
 
 
 ### Co-authored
-* S. C. Rose, S. Naoz, **A. K. Gautam**, et al. *On Socially Distant Neighbors: Using Binaries to Constrain the Density of Objects in the Galactic Center*<br>Journal Link: ApJ (submitted) \| Open Access: [arXiv: 2008.06512](https://arxiv.org/abs/2008.06512)
+* S. C. Rose, S. Naoz, **A. K. Gautam**, et al. *On Socially Distant Neighbors: Using Binaries to Constrain the Density of Objects in the Galactic Center*<br>Journal Link: [ApJ, 904:2, 2020](https://doi.org/10.3847/1538-4357/abc557) \| Open Access: [arXiv: 2008.06512](https://arxiv.org/abs/2008.06512)
 * M. W. Hosek Jr., J. R. Lu, C. Y. Lam, **A. K. Gautam**, et al. *SPISEA: A Python-Based Simple Stellar Population Synthesis Code for Star Clusters*<br>Journal Link: [AJ, 160:143, 2020](https://doi.org/10.3847/1538-3881/aba533) \| Open Access: [arXiv:2006.06691](https://arxiv.org/abs/2006.06691)
 * A. Hees, et al, incl. **A. K. Gautam**. *Search for a Variation of the Fine Structure Constant around the Supermassive Black Hole in Our Galactic Center*<br>Journal Link: [PRL, 124, 081101, 2020](https://doi.org/10.1103/PhysRevLett.124.081101) \| Open Access: [arXiv:2002.11567](https://arxiv.org/abs/2002.11567)
 * Z. Chen, et al, incl. **A. K. Gautam**. *Consistency of the Infrared Variability of Sgr A\* over 22 yr*<br>Journal Link: [ApJL, 882:L28, 2019](https://doi.org/10.3847/2041-8213/ab3c68) \| Open Access: [arXiv:1908.08066](https://arxiv.org/abs/1908.08066)
@@ -22,6 +22,7 @@ title: Research
 * D. S. Chu, et al, incl. **A. K. Gautam**. *Investigating the Binarity of S0-2*<br>Journal Link: [ApJ, 854:12, 2018](https://doi.org/10.3847/1538-4357/aaa3eb) \| Open Access: [arXiv:1709.04890](https://arxiv.org/abs/1709.04890)
 
 ### Conference talks and proceedings
+* **A. K. Gautam**, T. Do, A. M. Ghez, et al. *Understanding the star formation and dynamical histories of the Milky Way Galactic center with stellar binaries*<br>[AAS 235, 2020 January](http://adsabs.harvard.edu/abs/2020AAS...23533603G)
 * **A. K. Gautam**, T. Do, A. M. Ghez, et al. *Photometric detection of a candidate low-mass giant binary system at the Milky Way Galactic Center*<br>[AAS 231, 2018 January](http://adsabs.harvard.edu/abs/2018AAS...23121201K)
 * **A. K. Gautam**, T. Do, A. M. Ghez, et al. *Constraining the Variability and Binary Fraction of Galactic Center Young Stars*<br>[IAU Symposium 322, 2016 July](https://arxiv.org/abs/1610.02441)
 * **A. K. Gautam**, A. Siemion, E. J. Korpela, et al. *SETI Searches for Radio Transients from Kepler Field Planets and Astropulse Candidates*<br>[AAS 224, 2014 June](http://adsabs.harvard.edu/abs/2018AAS...23121201K)
