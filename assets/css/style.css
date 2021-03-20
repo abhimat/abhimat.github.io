@@ -3,7 +3,7 @@
 /*Stay hungry. Stay foolish.*/
 
 
-@import url('//fonts.googleapis.com/css?family=Source+Sans+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i');
+/* @import url('//fonts.googleapis.com/css?family=Source+Sans+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i'); */
 
 /*Reset*/
 
@@ -45,20 +45,19 @@
 body {
     background: var(--background-color);
 	color: var(--body-color);
-	font-family: 'Source Sans Pro', Verdana, Sans-Serif;
+	font-family: lato, Sans-Serif;
 	font-size: 100%;
 	line-height: 1.5;
 	font-weight: var(--body-font-weight);
 	text-rendering: optimizeLegibility;
-	font-feature-settings: "kern" on;
+	font-feature-settings: "liga", "kern" on;
 }
 
 h1, h2, h3, h4, .h1, .h2, .h3, .h4 {
-	font-family: Futura, 'Century Gothic', AppleGothic, sans-serif;
-/*	font-family: 'Source Sans Pro', Verdana, Sans-Serif;*/
-	font-weight: 400;
+	font-family: futura-pt, sans-serif;
+	font-weight: 500;
 	text-rendering: optimizeLegibility;
-	font-feature-settings: "kern" on;
+	font-feature-settings: "liga", "kern" on;
 }
 
 h1, h2, h3, .h1, .h2, .h3 {
@@ -183,7 +182,7 @@ figcaption {
 	padding-top: 0.5em;
 	margin-left: 1em;
     font-style: italic;
-    font-family: 'Source Sans Pro', Verdana, Sans-Serif;
+    font-family: lato, Sans-Serif;
 	font-weight: 300;
 	font-size: 14px;
     
