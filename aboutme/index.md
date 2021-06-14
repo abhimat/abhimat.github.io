@@ -10,7 +10,7 @@ title: About Me
 </figure>
 
 ## **Abhimat Krishna Gautam**
-<center><p><a href='/cv/cv_abhimat.pdf'>My CV</a><br>Email: <a href="mailto:abhimat@hey.com">abhimat [at] hey.com</a><br>Twitter: <a href="https://twitter.com/abhimatgautam">@abhimatgautam</a></p></center>
+<center><p><a href='/cv/cv_abhimat.pdf'>My CV</a><br>Email: <a href="mailto:abhimat@me.com">abhimat [at] me.com</a><br>Twitter: <a href="https://twitter.com/abhimatgautam">@abhimatgautam</a></p></center>
 
 I'm an astronomy postdoc at UCLA. I love starry nights, learning about how stars and the universe work, and sharing my passion for science with absolutely everyone I can.
 
