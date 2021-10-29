@@ -34,6 +34,6 @@ gem "ffi", ">= 1.9.24"
 gem "kramdown", ">= 2.3.1"
 gem "kramdown-parser-gfm"
 
-gem "nokogiri", ">= 1.11.4"
+gem "nokogiri", ">= 1.12.5"
 
 gem "addressable", ">= 2.8.0"
