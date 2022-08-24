@@ -15,7 +15,7 @@ source "https://rubygems.org"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
-gem "github-pages","~> 214" , group: :jekyll_plugins
+gem "github-pages","~> 227" , group: :jekyll_plugins
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
@@ -37,3 +37,9 @@ gem "kramdown-parser-gfm"
 gem "nokogiri", ">= 1.12.5"
 
 gem "addressable", ">= 2.8.0"
+
+gem "webrick", "~> 1.7"
+
+gem "commonmarker", ">= 0.23.4"
+
+gem "tzinfo", "~> 1.2"
