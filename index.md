@@ -8,3 +8,5 @@ Hi! I'm an astronomy Postdoctoral Researcher at UCLA. My [research](./research/)
 In addition to my research, I love working on [science outreach](./outreach/): sharing my passion for science and astronomy through education and science communication.
 
 I like to dabble in [art](./art/) on the side. And you can learn even more [about me here](./aboutme/)!
+
+Find me online on <a rel="me" href="https://mastodon.social/@abhimat">Mastodon</a>.
