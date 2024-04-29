@@ -7,7 +7,7 @@ title: Research
 ## Publications
 
 ### First-author
-* **A. K. Gautam**, T. Do, A. M. Ghez, et al. *An Estimate of the Binary Star Fraction Among Young Stars at the Galactic Center: Possible Evidence of a Radial Dependence*<br>Journal (open access): ApJ, 2024: [in press]<br>Preprint (open access): [arXiv:2401.12555](https://arxiv.org/abs/2401.12555)
+* **A. K. Gautam**, T. Do, A. M. Ghez, et al. *An Estimate of the Binary Star Fraction Among Young Stars at the Galactic Center: Possible Evidence of a Radial Dependence*<br>Journal (open access): [ApJ, 964:164, 2024](https://doi.org/10.3847/1538-4357/ad26e6)<br>Preprint (open access): [arXiv:2401.12555](https://arxiv.org/abs/2401.12555)
 * **A. K. Gautam**, T. Do, A. M. Ghez, et al. *An Adaptive Optics Survey of Stellar Variability at the Galactic Center*<br>Journal: [ApJ, 871:103, 2019](https://doi.org/10.3847/1538-4357/aaf103)<br>Preprint (open access): [arXiv:1811.04898](https://arxiv.org/abs/1811.04898)
 
 ### Co-authored
