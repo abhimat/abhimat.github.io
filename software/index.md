@@ -16,9 +16,11 @@ Modeling of binary systems and calculation of observables is primarily handled w
 
 Fitting of observables to binary models is conducted with the use of MCMC sampling code. We provide support for sampling with nested sampling codes like UltraNest, MultiNest (via PyMultiNest), or dynesty. Phitter can also be used with non-nested sampling MCMC codes like emcee. Examples to demonstrate how to set up a fitter are provided for UltraNest, dynesty, and emcee.
 
+[![DOI](https://zenodo.org/badge/170761219.svg)](https://zenodo.org/doi/10.5281/zenodo.8370775)
+
 * [Documentation](https://abhimat.net/phitter/index.html)
 * Git Repository: [Github](https://github.com/abhimat/phitter/)
-* Citation (v0.1.0): [zenodo](https://zenodo.org/records/8370776)
+* Citation: [zenodo](https://zenodo.org/doi/10.5281/zenodo.8370775)
 
 ### Analysis software for science papers
 
