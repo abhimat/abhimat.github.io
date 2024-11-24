@@ -4,6 +4,9 @@
 - link: /research/
   name: Research
   nav_cat: research
+- link: /software/
+  name: Software
+  nav_cat: software
 - link: /outreach/
   name: Outreach
   nav_cat: outreach
