@@ -40,7 +40,7 @@ gem "nokogiri", ">= 1.12.5"
 
 gem "addressable", ">= 2.8.0"
 
-gem "webrick", "~> 1.7"
+gem "webrick", "~> 1.8"
 
 gem "commonmarker", ">= 0.23.4"
 
