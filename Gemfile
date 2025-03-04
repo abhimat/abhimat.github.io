@@ -47,3 +47,5 @@ gem "commonmarker", ">= 0.23.4"
 gem "tzinfo", "> 1.2"
 
 gem "activesupport", ">= 6.1.7.3"
+
+gem "uri", ">= 0.13.2"
