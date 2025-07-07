@@ -1,14 +1,14 @@
 <head>
 	<meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 	
-  {% if page.nav_cat == 'front' %}
-  <title>{{ site.title }}</title>
-  {% else %}
-  <title>{{ site.title }}: {{ page.title }}</title>
-  {% endif %}
-  
+    {% if page.nav_cat == 'front' %}
+    <title>{{ site.title }}</title>
+    {% else %}
+    <title>{{ site.title }}: {{ page.title }}</title>
+    {% endif %}
+    
 	<!-- Favicon -->
 	<link rel="shortcut icon" href="/assets/icons/favicon.png">
 	<link rel="apple-touch-icon" href="/assets/icons/touch-icon.png">
@@ -18,4 +18,15 @@
 	
 	<!-- Styles -->
 	<link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+	
+	<!-- GoSquared -->
+	<script>
+	  	!function(g,s,q,r,d){r=g[r]=g[r]||function(){(r.q=r.q||[]).push(arguments)};
+	  	d=s.createElement(q);d.src='//d1l6p2sc9645hc.cloudfront.net/gosquared.js';q=
+	  	s.getElementsByTagName(q)[0];q.parentNode.insertBefore(d,q)}(window,document
+	  	,'script','_gs');
+	
+	  	_gs('GSN-405122-G');
+	  	_gs('set', 'anonymizeIP', true);
+	</script>
 </head>
