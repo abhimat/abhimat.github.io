@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<!--
+ 
+      Abhimat Gautam's Personal Website
+  
+-->
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header_blog.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="content wrap">
+        
+        {%- include navigation.html -%}
+        
+        <section class="blocks">
+          <article class="block">
+            {{ content }}
+          </article>
+        </section>        
+      </div>
+    </main>
+
+  </body>
+  
+  {%- include footer.html -%}
+  
+</html>

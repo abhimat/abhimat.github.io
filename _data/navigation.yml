@@ -1,15 +1,18 @@
 - link: /
   name: Front
   nav_cat: front
-- link: /research/
-  name: Research
-  nav_cat: research
+- link: /blog/
+  name: Blog
+  nav_cat: blog
 - link: /software/
   name: Software
   nav_cat: software
-- link: /outreach/
-  name: Outreach
-  nav_cat: outreach
+- link: /research/
+  name: Research
+  nav_cat: research
+# - link: /outreach/
+#   name: Outreach
+#   nav_cat: outreach
 - link: /art/
   name: Art
   nav_cat: art

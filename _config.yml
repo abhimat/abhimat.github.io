@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Abhimat Gautam
-email: abhimat.gautam@gmail.com
+email: abhimat@abhimat.net
 description: >- # this means to ignore newlines until "baseurl:"
     Abhimat Gautam’s personal website!
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -26,6 +26,7 @@ github_username:  abhimat
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 
 sass:
     style: compressed
@@ -42,3 +43,24 @@ sass:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# paginate: 5
+# paginate_path: "/blog/page:num/"
+
+# Pagination Settings
+pagination:
+  enabled: true
+  per_page: 3
+  permalink: '/blog/:num/'
+  title: ':title - page :num of :max'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+
+
+globular:
+  # Show excerpts on blog page
+  show_excerpts: true
+  
+  date_format: "%d %b %Y"
+  
