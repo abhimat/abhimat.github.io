@@ -562,23 +562,34 @@ table.sponsor td h3, h4 {
 }
 
 /* Blog Home Page Styles */
+ul.post-list{
+	margin: 0;
+}
 
 .post-list li{
 	list-style: none;
-	
 }
 span.post-meta{
 	font-variant: all-small-caps;
 }
 
-a.post-link{
+h3.post-title{
 	text-align: left;
+	margin: 0;
+}
+
+/* Blog Post Page Styles */
+header.post-header{
 	margin: 0;
 }
 
 h2.post-title{
 	text-align: left;
 	margin: 0;
+}
+div.post-meta{
+	text-align: left;
+	font-variant: all-small-caps;
 }
 
 
