@@ -1,3 +1,7 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
 /*Style sheet for Abhimat Gautam's Personal Website*/
 /*By Abhimat Gautam*/
 /*Stay hungry. Stay foolish.*/
@@ -5,37 +9,38 @@
 
 /* @import url('//fonts.googleapis.com/css?family=Source+Sans+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i'); */
 
+
+
 /*Reset*/
 
-* {
-	margin: 0;
-	padding: 0;
-}
+
+
+@import "globular";
 
 /*Support for dark mode*/
 :root {
     color-scheme: light dark;
     
-    --background-color: #ffffff;
-    --body-color: #444444;
+    --background-color: $background-color;
+    --body-color: $lm-text-color;
     --a-color: #009999;
     
-    --body-font-weight: 400;
-    
-    --image-brightness: 100%;
+    // --body-font-weight: 400;
+    // 
+    // --image-brightness: 100%;
     
     
 }
 
 @media (prefers-color-scheme: dark) {
     :root {
-        --background-color: #151515;
-        --body-color: #e6e6e6;
+        --background-color: $background-color-dark;
+        --body-color: $dm-text-color;
         --a-color: #00d3d3;
         
-        --body-font-weight: 400;
+        // --body-font-weight: 400;
         
-        --image-brightness: 100%;
+        // --image-brightness: 100%;
     }
 }
 
@@ -45,16 +50,16 @@
 body {
     background: var(--background-color);
 	color: var(--body-color);
-	font-family: lato, Sans-Serif;
+	font-family: $base-font-family;
 	font-size: 100%;
 	line-height: 1.5;
-	font-weight: var(--body-font-weight);
+	font-weight: $base-font-weight;
 	text-rendering: optimizeLegibility;
 	font-feature-settings: "liga", "kern" on;
 }
 
 h1, h2, h3, h4, .h1, .h2, .h3, .h4 {
-	font-family: futura-pt, sans-serif;
+	font-family: $headers-font-family;
 	font-weight: 500;
 	text-rendering: optimizeLegibility;
 	font-feature-settings: "liga", "kern" on;
@@ -175,7 +180,7 @@ figure img {
 
 figure.bleed img {
 	max-width: 100%;
-  border-radius
+    // border-radius: 0;
 }
 
 figcaption {
@@ -328,11 +333,11 @@ header:after {
 }
 
 header h1, header h2 {
-  padding-bottom: 0.25em;
+	padding-bottom: 0.25em;
 }
 
 header h3 {
-  padding-bottom: 0.6em;
+	padding-bottom: 0.6em;
 }
 
 header h1, header p {
@@ -524,6 +529,59 @@ a:hover {
 	margin-left: 1em;
 }
 
+
+
+footer.wrap {
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+
+/*Slideshow Styles*/
+
+.slide-container {
+    width:100%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+/*Sponsor Styles*/
+
+table.sponsor {
+	width: 100%;
+}
+
+table.sponsor td {
+	vertical-align: middle;
+	border: 1px;
+	width: 50%;
+}
+
+table.sponsor td h3, h4 {
+	text-align: center;
+	margin: 0em;
+}
+
+/* Blog Home Page Styles */
+
+.post-list li{
+	list-style: none;
+	
+}
+span.post-meta{
+	font-variant: all-small-caps;
+}
+
+a.post-link{
+	text-align: left;
+	margin: 0;
+}
+
+h2.post-title{
+	text-align: left;
+	margin: 0;
+}
+
+
 .tags {
 	margin-top: 1em;
 }
@@ -560,34 +618,4 @@ a:hover {
 
 .pagination .next {
 	float: right;
-}
-
-footer.wrap {
-	padding-top: 2em;
-	padding-bottom: 2em;
-}
-
-/*Slideshow Styles*/
-
-.slide-container {
-    width:100%;
-    margin-left:auto;
-    margin-right:auto;
-}
-
-/*Sponsor Styles*/
-
-table.sponsor {
-	width: 100%;
-}
-
-table.sponsor td {
-	vertical-align: middle;
-	border: 1px;
-	width: 50%;
-}
-
-table.sponsor td h3, h4 {
-	text-align: center;
-	margin: 0em;
 }
