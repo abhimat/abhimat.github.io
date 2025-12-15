@@ -2,51 +2,66 @@
 
 // Define defaults for each variable.
 
-$base-font-family: 'Source Sans Pro', Verdana, Sans-Serif, -apple-system, !default;
-$base-font-size:   16px !default;
+$base-font-family: lato, Sans-Serif, -apple-system, !default;
+
+$code-font-family: menlo, monospace;
+
+$base-font-size:  100% !default;
 $base-font-weight: 400 !default;
-$headers-font-family: Futura, 'Century Gothic', AppleGothic, sans-serif, -apple-system;
+$headers-font-family: futura-pt, sans-serif, -apple-system;
 $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
 
 $spacing-unit:     30px !default;
 
-$text-color:       #111 !default;
-$background-color: #fdfdfd !default;
+$lm-text-color:       #444444 !default;
+$dm-text-color:       #e6e6e6 !default;
+$background-color: #ffffff !default;
+$background-color-dark: #151515 !default;
 $brand-color:      #2a7ae2 !default;
 
 $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 
-$table-text-align: left !default;
+@media (prefers-color-scheme: dark) {
+  $text-color: #e6e6e6;
+  $background-color: #151515;
+}
 
-// Width of the content area
-$content-width:    800px !default;
 
-$on-palm:          600px !default;
-$on-laptop:        800px !default;
 
-// Use media queries like this:
-// @include media-query($on-palm) {
-//   .wrapper {
-//     padding-right: $spacing-unit / 2;
-//     padding-left: $spacing-unit / 2;
+// $table-text-align: left !default;
+// 
+// // Width of the content area
+// $content-width:    800px !default;
+// 
+// $on-palm:          600px !default;
+// $on-laptop:        800px !default;
+// 
+// // Use media queries like this:
+// // @include media-query($on-palm) {
+// //   .wrapper {
+// //     padding-right: $spacing-unit / 2;
+// //     padding-left: $spacing-unit / 2;
+// //   }
+// // }
+// @mixin media-query($device) {
+//   @media screen and (max-width: $device) {
+//     @content;
 //   }
 // }
-@mixin media-query($device) {
-  @media screen and (max-width: $device) {
-    @content;
-  }
-}
-
-@mixin relative-font-size($ratio) {
-  font-size: $base-font-size * $ratio;
-}
-
+// 
+// @mixin relative-font-size($ratio) {
+//   font-size: $base-font-size * $ratio;
+// }
+// 
 // Import partials.
-@import
-  "globular/base",
-  "globular/layout",
-  "globular/syntax-highlighting"
-;
+
+@import "globular/colors";
+@import "globular/base";
+
+
+  // "globular/syntax-highlighting"
+  // "globular/layout",
+
