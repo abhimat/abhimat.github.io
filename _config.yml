@@ -28,6 +28,7 @@ highlighter: rouge
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-sitemap
 
 sass:
     style: compressed
