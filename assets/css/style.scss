@@ -564,11 +564,12 @@ table.sponsor td h3, h4 {
 /* Blog Home Page Styles */
 ul.post-list{
 	margin: 0;
+	> li {
+		margin-bottom: $spacing-unit;
+		list-style: none;
+	}
 }
 
-.post-list li{
-	list-style: none;
-}
 span.post-meta{
 	font-variant: all-small-caps;
 }
