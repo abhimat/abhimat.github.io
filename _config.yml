@@ -34,6 +34,13 @@ sass:
     style: compressed
     sass_dir: _sass
 
+kramdown:
+    math_engine: mathjax
+    input: GFM
+    syntax_highlighter: rouge
+    syntax_highlighter_opts:
+      css_class: 'highlight'
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

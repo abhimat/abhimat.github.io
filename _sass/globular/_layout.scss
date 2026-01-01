@@ -208,14 +208,12 @@
 }
 
 .post-list {
-  > li {
-    margin-bottom: $spacing-unit;
-  }
-  
   margin-left: 0;
   list-style: none;
 
-  
+  > li {
+    margin-bottom: $spacing-unit;
+  }
 }
 
 .post-meta {
