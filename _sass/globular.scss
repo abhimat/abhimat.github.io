@@ -6,28 +6,23 @@ $base-font-family: lato, Sans-Serif, -apple-system, !default;
 
 $code-font-family: menlo, monospace;
 
-$base-font-size:  100% !default;
+$base-font-size: 100% !default;
 $base-font-weight: 400 !default;
 $headers-font-family: futura-pt, sans-serif, -apple-system;
-$small-font-size:  $base-font-size * 0.875 !default;
+$small-font-size: $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
 
-$spacing-unit:     30px !default;
+$spacing-unit: 30px !default;
 
-$lm-text-color:       #444444 !default;
-$dm-text-color:       #e6e6e6 !default;
+$lm-text-color: #444444 !default;
+$dm-text-color: #e6e6e6 !default;
 $background-color: #ffffff !default;
-$background-color-dark: #ffffff !default;
-$brand-color:      #2a7ae2 !default;
+$background-color-dark: #151515 !default;
+$brand-color: #2a7ae2 !default;
 
-$grey-color:       #828282 !default;
+$grey-color: #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
-$grey-color-dark:  darken($grey-color, 25%) !default;
-
-@media (prefers-color-scheme: dark) {
-  $text-color: #e6e6e6;
-  $background-color: #151515;
-}
+$grey-color-dark: darken($grey-color, 25%) !default;
 
 
 
@@ -62,6 +57,5 @@ $grey-color-dark:  darken($grey-color, 25%) !default;
 @import "globular/base";
 
 
-  // "globular/syntax-highlighting"
-  // "globular/layout",
-
+// "globular/syntax-highlighting"
+// "globular/layout",
