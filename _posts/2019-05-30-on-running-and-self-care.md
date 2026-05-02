@@ -1,7 +1,7 @@
 ---
 nav_cat: blog
 layout: blog_post
-title: “On running and self-care"
+title: On running and self-care
 ---
 
 I like to run a lot, and the short answer I’ve always had for why is that it’s fun and it’s sort of an excuse to go outside and explore.
@@ -19,7 +19,7 @@ And the actual race day felt absolutely *empowering* in several ways. Empowering
 The entire marathon experience felt like making the plunge to take charge of my own mental wellbeing, my self-care. Pushing until the end by putting one foot in front of the other. And just being able to get going every day of training by putting on my running shoes, tying up my laces, and starting to run outside. I’m very proud of myself for achieving this big challenge from something that I’ve largely developed as a tool for self-care and to take better control of my own mental heath.
 
 <figure>
-	<img src="/assets/blog/2019-05/me_marathon_finish.png" alt="Me after finishing the 2019 LA Marathon, holding the medal in front of me" title="Me after finishing the 2019 LA Marathon, holding the medal in front of me" />
+	<img src="/assets/blog/2019-05/me_marathon_finish.jpeg" alt="Me after finishing the 2019 LA Marathon, holding the medal in front of me" title="Me after finishing the 2019 LA Marathon, holding the medal in front of me" />
     <figcaption>
         Me after finishing the 2019 LA Marathon, holding the medal in front of me.
     </figcaption>
