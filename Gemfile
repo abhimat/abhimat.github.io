@@ -54,3 +54,5 @@ gem "activesupport", ">= 6.1.7.3"
 gem "uri", ">= 0.13.2"
 
 gem "concurrent-ruby", ">= 1.3.7"
+
+gem "faraday", ">= 2.14.3"
